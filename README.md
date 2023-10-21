@@ -2,10 +2,4 @@
 Course 
 
 
-just vords for test
-
-
-another change
-
-lhbjbkjhbvitv
-lkuviyvklbhblh
+# Here is the information to verify that changes have been submitted.
